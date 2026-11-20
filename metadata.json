@@ -1,0 +1,10 @@
+{
+  "name": "Global Pharma - Symptom Scout & Nearby Care",
+  "description": "Comprehensive medical & pharmaceutical portal featuring natural & conventional remedies, triage symptom library, AI symptom checker, and interactive map of nearby pharmacies, clinics, and hospitals with live operating hours.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
